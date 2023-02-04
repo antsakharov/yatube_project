@@ -30,7 +30,7 @@ pytest
 •	**Клонируйте репозиторий:**
 
 ```csharp 
-git clone git@github.com:antsakharov/hw_python_oop.git
+git clone git@github.com:antsakharov/yarube_project.git
 ```
 
 •	**Установите и активируйте виртуальное окружение:**
@@ -59,5 +59,10 @@ source venv/Scripts/activate
 
 ```csharp 
 pip install -r requirements.txt
+```
+•	**Выполните миграции:**
+
+```csharp 
+python manage.py migrate
 ```
 
