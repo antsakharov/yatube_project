@@ -30,7 +30,7 @@ pytest
 •	**Клонируйте репозиторий:**
 
 ```csharp 
-git clone git@github.com:antsakharov/yarube_project.git
+git clone git@github.com:antsakharov/yatube_project.git
 ```
 
 •	**Установите и активируйте виртуальное окружение:**
