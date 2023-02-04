@@ -60,7 +60,11 @@ source venv/Scripts/activate
 ```csharp 
 pip install -r requirements.txt
 ```
-•	**Выполните миграции:**
+•	**Создайте и выполните миграции:**
+
+```csharp 
+python manage.py makemigrations
+```
 
 ```csharp 
 python manage.py migrate
